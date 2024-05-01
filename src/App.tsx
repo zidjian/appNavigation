@@ -7,8 +7,8 @@ import DrawerNavigator from './routes/Drawer.navigator';
 function App() {
     return (
         <NavigationContainer>
-            <StackNavigator />
-            {/* <DrawerNavigator /> */}
+            {/* <StackNavigator /> */}
+            <DrawerNavigator />
         </NavigationContainer>
     );
 }

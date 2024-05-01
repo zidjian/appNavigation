@@ -8,7 +8,6 @@ interface Props {
 }
 
 export default function Button({ text, onPress, color = globalColors.primary }: Props) {
-    console.log(color);
     return (
         <Pressable
             onPress={onPress}

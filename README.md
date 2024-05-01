@@ -15,7 +15,7 @@
 
 ## Descripción del proyecto
 
-Aplicación con varios estilos de navegación
+Aplicación con varios estilos de navegación en react native
 
 ![Mockup del proyecto]()
 
